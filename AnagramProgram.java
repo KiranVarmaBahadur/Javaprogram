@@ -1,4 +1,5 @@
-import java.util.*; 
+package com.javaanagram;
+import java.util.*;
 
 public class AnagramProgram {
 
