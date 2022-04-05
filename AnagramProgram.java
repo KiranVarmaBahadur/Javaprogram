@@ -4,8 +4,8 @@ public class AnagramProgram {
 
     static void Anagramprog(String sOne, String sTwo) {
 
-        sOne = sOne.replaceAll(\\s,"");
-        sTwo = sOne.replaceAll(\\s,"");
+        sOne = sOne.replaceAll("\\s","");
+        sTwo = sOne.replaceAll("\\s","");
 
         int s1Len = sOne.length();
         int s2Len = sTwo.length();
